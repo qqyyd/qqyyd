@@ -35,7 +35,7 @@
 
 ### 📈 GitHub Activity Graph:
 
-[[![qqyyd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qqyyd)
+![qqyyd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qqyyd)
 
 
 
@@ -51,24 +51,13 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qqyyd"></img>
 
-<!--   profile-green-animate -->
-<!--![](./profile-3d-contrib/profile-green-animate.svg)-->
 
-<!--   grid-snake -->
-
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
 
 **📫 How to Reach me:**
 <p align="left">
 <a href="qdeng9371@gmail.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
   <a href="1162139803@qq.com" target="blank"><img align="center" src="./assets/qq.svg" alt="QQ" height="30" width="30" /></a>
 </p>
-
-
 
    <!--machine-learning-->
 ```mermaid
@@ -80,30 +69,6 @@ graph TD;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
 ```
-
- 
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-
-
-
-<!-- Belarus - My Home-->
-
-
-
-
-
-
-
-<p align="center">
-</p>
-
-
 
 #### Thanks for visiting :heart:</a>
 
